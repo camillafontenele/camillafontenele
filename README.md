@@ -19,7 +19,7 @@
   <a href="https://discord.gg/XpHCKDDF" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="discord logo"  />
   </a>
-  <a href="https://is.gd/camillafontenele" target="_blank">
+  <a href="mailto:camillafontenele@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
   </a>
 </div>
