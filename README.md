@@ -1,11 +1,11 @@
-# 🖐️ E aí, tudo bem? Eu sou Camilla Fontenele! 
+# 🖐️ E aí, tudo bem? Eu sou a Camilla Fontenele! 
 
 💻 Apaixonada por tecnologia, estou trilhando minha jornada como Desenvolvedora Front-end.
 
 🚀 Atualmente focada em:
 - Aprender ReactJS
 - Criar projetos reais e publicar no GitHub
-- Evoluir para atuar como Desenvolvedor em Web
+- Evoluir para atuar como Desenvolvedora em Web
 
 🔧 Tecnologias que estou dominando:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,8 +19,9 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-📫 Vamos conversar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilla-fontenele/)
+## 📫 Onde me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camillafontenele)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camillafontenele@gmail.com)
 
 ---
