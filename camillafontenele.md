@@ -1,6 +1,6 @@
-# 🖐️ E aí, tudo bem? Eu sou o [Seu Nome]! 
+# 🖐️ E aí, tudo bem? Eu sou Camilla Fontenele!
 
-💻 Apaixonado por tecnologia, estou trilhando minha jornada como Desenvolvedor Front-end.
+💻 Apaixonada por tecnologia e aprendizado, estou trilhando minha jornada como Desenvolvedora Front-end.
 
 🚀 Atualmente focado em:
 - Aprender ReactJS
@@ -20,8 +20,8 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 📫 Vamos conversar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camillafontenele/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camillafontenele@gmail.com)
 
 ---
 
