@@ -1,4 +1,4 @@
-# 🖐️ E aí, tudo bem? Eu sou Camilla Fontenele]! 
+# 🖐️ E aí, tudo bem? Eu sou Camilla Fontenele! 
 
 💻 Apaixonada por tecnologia, estou trilhando minha jornada como Desenvolvedora Front-end.
 
