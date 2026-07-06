@@ -66,7 +66,7 @@ Minha jornada atualmente passa por temas como:
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilla%20Fontenele-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilla-fontenele/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilla%20Fontenele-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camillafontenele/)
 [![GitHub](https://img.shields.io/badge/GitHub-camillafontenele-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camillafontenele)
 
 </div>
