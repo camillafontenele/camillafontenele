@@ -1,76 +1,41 @@
 # Olá, eu sou a Camilla Fontenele 👋
 
-Sou estudante de programação e estou construindo minha trajetória para atuar como **Engenheira de Software**, com foco em desenvolvimento **Full Stack**.
+### Desenvolvedora Full Stack Júnior
 
-Atualmente, venho fortalecendo minha base em programação, desenvolvimento web, banco de dados, lógica, estruturas de dados e boas práticas de organização de código. Meu objetivo é entender como aplicações completas funcionam, desde a interface que o usuário utiliza até a estrutura por trás do sistema.
+Desenvolvo aplicações web utilizando **React, Next.js, TypeScript e JavaScript** no Front-end, além de **Node.js, APIs REST, PostgreSQL e Prisma** no Back-end.
 
----
+Estou no 5º período de Análise e Desenvolvimento de Sistemas e aprimoro meus conhecimentos por meio de projetos práticos, buscando compreender desde a interface e a experiência do usuário até a estrutura e o funcionamento do Back-end.
 
-## 🚀 Sobre mim
+Tenho interesse em construir aplicações úteis, acessíveis e bem estruturadas, aplicando organização de código, versionamento, testes e boas práticas de desenvolvimento.
 
-Estou em constante evolução na área de tecnologia, estudando e praticando conceitos fundamentais para o desenvolvimento de software.
+## Tecnologias e ferramentas
 
-Gosto de aprender construindo projetos, resolvendo exercícios e entendendo o motivo por trás de cada tecnologia. Tenho buscado desenvolver uma base sólida, com atenção à clareza do código, organização dos arquivos, versionamento e funcionamento das aplicações de ponta a ponta.
+### Front-end
 
-Minha jornada atualmente passa por temas como:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-- Fundamentos de programação
-- Desenvolvimento Front-end
-- Desenvolvimento Back-end
-- Banco de dados
-- Estruturas de dados
-- Git e GitHub
-- Boas práticas de desenvolvimento
-- Organização de projetos Full Stack
+### Back-end e banco de dados
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-## 🛠️ Tecnologias que estudo e pratico
+### Ferramentas
 
-<div align="left">
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+## Contato
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Camilla GitHub stats](https://github-readme-stats.vercel.app/api?username=camillafontenele&show_icons=true&theme=dracula&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillafontenele&layout=compact&theme=dracula&hide_border=true)
-
-</div>
-
----
-
-## 📫 Onde me encontrar
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilla%20Fontenele-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camillafontenele/)
-[![GitHub](https://img.shields.io/badge/GitHub-camillafontenele-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camillafontenele)
-
-</div>
-
----
-
-> Aprendendo, praticando e construindo minha base para criar softwares cada vez melhores.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilla_Fontenele-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camillafontenele/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-camillafontenele.com.br-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://www.camillafontenele.com.br/)
+[![E-mail](https://img.shields.io/badge/E--mail-camillafontenele%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:camillafontenele@gmail.com)
